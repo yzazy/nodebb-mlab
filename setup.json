@@ -1,0 +1,14 @@
+{
+    "url": "http://127.0.0.1:8080",
+    "secret": "e5dc5555-9943-4cfb-a14b-638a6944bed7",
+    "database": "mongo",
+    "port": "8080",
+    "mongo": {
+        "host": "ds121871.mlab.com",
+        "port": 121871,
+        "username": "kynuxyz",
+        "password": "+84948866359",
+        "database": "2020",
+        "uri": "mongodb://kynuxyz:+84948866359@ds121871.mlab.com:21871/2020"
+    }
+}
