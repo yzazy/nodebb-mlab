@@ -6,9 +6,9 @@
     "mongo": {
         "host": "ds121871.mlab.com",
         "port": 121871,
-        "username": "kynuxyz",
-        "password": "+84948866359",
+        "username": "84948866359",
+        "password": "vn84948866359",
         "database": "2020",
-        "uri": "mongodb://kynuxyz:+84948866359@ds121871.mlab.com:21871/2020"
+        "uri": "mongodb://84948866359:vn84948866359@ds121871.mlab.com:21871/2020"
     }
 }
